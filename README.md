@@ -11,6 +11,7 @@
 ## Vim
 
 * use [amix/vimrc](https://github.com/amix/vimrc)
+* add [ack.vim](http://betterthanack.com) for fast search
 
 ## Tmux
 
