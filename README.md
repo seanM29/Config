@@ -17,3 +17,5 @@
 
 * see in .tmux.conf
 
+## Item2
+* 主要参考[Mac OS iTerm2 config](https://www.cnblogs.com/xishuai/p/mac-iterm2.html)
